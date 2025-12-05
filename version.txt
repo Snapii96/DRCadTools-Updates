@@ -1,3 +1,3 @@
-version=1.0.0
-url=https://github.com/Snapii96/DRCadTools-Updates/releases/download/v1.0.1/DRCad.Tools.exe
+version=1.0.1
+url=https://github.com/Snapii96/DRCadTools-Updates/releases/download/v1.0.1/DRCadTools.exe
 message=Prima versiune oficială DRCad Tools.
