@@ -1,0 +1,3 @@
+version=1.0.0
+url=INLOCUIESTE_ACEST_TEXT_DUPA_CE_CREEZI RELEASE-UL
+message=Prima versiune oficială DRCad Tools.
